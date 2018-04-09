@@ -1,0 +1,19 @@
+body{
+background-color: #02010a;
+margin: 0;
+}
+h1{
+  background-color:  #5b7989;
+  color: white;
+  font-family: dancing script;
+  border-width: 90%;
+  height: 100px;
+  margin: 0;
+  padding: 0;
+  text-shadow: 2PX #02010a;
+}
+header navbar{
+  float: right;
+  height: 90%;
+
+}
